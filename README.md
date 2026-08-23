@@ -2,8 +2,11 @@
 
 Spicetify config using the **text** theme with a custom **CyberpunkPurple** color scheme.
 
-![Preview](assets/preview.png)
 
+<p align="center">
+  <img src="assets/preview.png" alt="Niri PURA desktop" width="420">
+  &nbsp;&nbsp;
+</p>
 ## What's included
 
 - `config-xpui.ini` — Spicetify main config

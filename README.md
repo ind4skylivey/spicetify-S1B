@@ -3,7 +3,7 @@
 Spicetify config using the **text** theme with a custom **CyberpunkPurple** color scheme.
 
 <p align="center">
-  <img src="assets/preview.png" alt="Spicetify CyberpunkPurple preview" width="480">
+  <img src="assets/preview.png" alt="Spicetify CyberpunkPurple preview" width="320" style="border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.3);">
 </p>
 
 ## What's included

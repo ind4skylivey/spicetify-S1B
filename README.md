@@ -2,6 +2,8 @@
 
 Spicetify config using the **text** theme with a custom **CyberpunkPurple** color scheme.
 
+![Preview](assets/preview.png)
+
 ## What's included
 
 - `config-xpui.ini` — Spicetify main config

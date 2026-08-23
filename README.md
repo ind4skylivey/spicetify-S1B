@@ -2,7 +2,9 @@
 
 Spicetify config using the **text** theme with a custom **CyberpunkPurple** color scheme.
 
-![Preview](assets/preview.png)
+<p align="center">
+  <img src="assets/preview.png" alt="Spicetify CyberpunkPurple preview" width="480">
+</p>
 
 ## What's included
 
